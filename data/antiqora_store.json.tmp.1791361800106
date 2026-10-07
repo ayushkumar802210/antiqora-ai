@@ -1,0 +1,283 @@
+{
+  "version": 1,
+  "conversations": [
+    {
+      "id": "conv-1791361800101",
+      "title": "What is Antiqora AI?...",
+      "createdAt": 1791361800101,
+      "messages": [
+        {
+          "id": "msg-u-1791361800103",
+          "role": "user",
+          "content": "What is Antiqora AI?",
+          "timestamp": 1791361800100
+        },
+        {
+          "id": "msg-a-1791361800103",
+          "role": "assistant",
+          "content": "I am **ANTIQORA AI** — *Your Intelligent Digital Companion*.\n\nCurrently operating in **Local Mode**. Configure your AI API key in **Settings** to activate full neural conversation capabilities.",
+          "timestamp": 1791361800103,
+          "agent": "GeneralAssistantAgent",
+          "toolsUsed": [],
+          "toolResults": [],
+          "sources": [],
+          "coreState": "IDLE"
+        }
+      ],
+      "updatedAt": 1791361800103
+    },
+    {
+      "id": "conv-1791361755333",
+      "title": "Tell me a complicated story about ga...",
+      "createdAt": 1791361755333,
+      "messages": [
+        {
+          "id": "msg-u-1791361755333",
+          "role": "user",
+          "content": "Tell me a complicated story about galaxies",
+          "timestamp": 1791361755333
+        },
+        {
+          "id": "msg-a-1791361755333",
+          "role": "assistant",
+          "content": "⚠️ **AI Provider Not Configured**\n\nTo answer general questions and perform deep reasoning, Antiqora AI requires an API key.\n\nPlease open **Settings** (⚙️) and enter your **Google Gemini API Key** (Free from Google AI Studio) or **OpenAI API Key**.\n\n*Note: Local tools such as System Information, Web Search, and File Inspection remain operational.*",
+          "timestamp": 1791361755333,
+          "agent": "GeneralAssistantAgent",
+          "toolsUsed": [],
+          "toolResults": [],
+          "sources": [],
+          "coreState": "IDLE"
+        }
+      ],
+      "updatedAt": 1791361755333
+    },
+    {
+      "id": "conv-1791361753775",
+      "title": "What is Antiqora AI?...",
+      "createdAt": 1791361753775,
+      "messages": [
+        {
+          "id": "msg-u-1791361753777",
+          "role": "user",
+          "content": "What is Antiqora AI?",
+          "timestamp": 1791361753774
+        },
+        {
+          "id": "msg-a-1791361753777",
+          "role": "assistant",
+          "content": "I am **ANTIQORA AI** — *Your Intelligent Digital Companion*.\n\nCurrently operating in **Local Mode**. Configure your AI API key in **Settings** to activate full neural conversation capabilities.",
+          "timestamp": 1791361753777,
+          "agent": "GeneralAssistantAgent",
+          "toolsUsed": [],
+          "toolResults": [],
+          "sources": [],
+          "coreState": "IDLE"
+        }
+      ],
+      "updatedAt": 1791361753778
+    },
+    {
+      "id": "conv-1791361709476",
+      "title": "Tell me a complicated story about ga...",
+      "createdAt": 1791361709476,
+      "messages": [
+        {
+          "id": "msg-u-1791361709476",
+          "role": "user",
+          "content": "Tell me a complicated story about galaxies",
+          "timestamp": 1791361709475
+        },
+        {
+          "id": "msg-a-1791361709476",
+          "role": "assistant",
+          "content": "⚠️ **AI Provider Not Configured**\n\nTo answer general questions and perform deep reasoning, Antiqora AI requires an API key.\n\nPlease open **Settings** (⚙️) and enter your **Google Gemini API Key** (Free from Google AI Studio) or **OpenAI API Key**.\n\n*Note: Local tools such as System Information, Web Search, and File Inspection remain operational.*",
+          "timestamp": 1791361709476,
+          "agent": "GeneralAssistantAgent",
+          "toolsUsed": [],
+          "toolResults": [],
+          "sources": [],
+          "coreState": "IDLE"
+        }
+      ],
+      "updatedAt": 1791361709476
+    },
+    {
+      "id": "conv-1791361707385",
+      "title": "What is Antiqora AI?...",
+      "createdAt": 1791361707385,
+      "messages": [
+        {
+          "id": "msg-u-1791361707388",
+          "role": "user",
+          "content": "What is Antiqora AI?",
+          "timestamp": 1791361707384
+        },
+        {
+          "id": "msg-a-1791361707388",
+          "role": "assistant",
+          "content": "I am **ANTIQORA AI** — *Your Intelligent Digital Companion*.\n\nCurrently operating in **Local Mode**. Configure your AI API key in **Settings** to activate full neural conversation capabilities.",
+          "timestamp": 1791361707388,
+          "agent": "GeneralAssistantAgent",
+          "toolsUsed": [],
+          "toolResults": [],
+          "sources": [],
+          "coreState": "IDLE"
+        }
+      ],
+      "updatedAt": 1791361707389
+    }
+  ],
+  "shortTermMemories": {
+    "conv-1791361707385": {
+      "conversationId": "conv-1791361707385",
+      "recentTurns": [
+        {
+          "id": "msg-u-1791361707388",
+          "role": "user",
+          "content": "What is Antiqora AI?",
+          "timestamp": 1791361707384
+        },
+        {
+          "id": "msg-a-1791361707388",
+          "role": "assistant",
+          "content": "I am **ANTIQORA AI** — *Your Intelligent Digital Companion*.\n\nCurrently operating in **Local Mode**. Configure your AI API key in **Settings** to activate full neural conversation capabilities.",
+          "timestamp": 1791361707388,
+          "agent": "GeneralAssistantAgent",
+          "toolsUsed": [],
+          "toolResults": [],
+          "sources": [],
+          "coreState": "IDLE"
+        }
+      ]
+    },
+    "conv-1791361709476": {
+      "conversationId": "conv-1791361709476",
+      "recentTurns": [
+        {
+          "id": "msg-u-1791361709476",
+          "role": "user",
+          "content": "Tell me a complicated story about galaxies",
+          "timestamp": 1791361709475
+        },
+        {
+          "id": "msg-a-1791361709476",
+          "role": "assistant",
+          "content": "⚠️ **AI Provider Not Configured**\n\nTo answer general questions and perform deep reasoning, Antiqora AI requires an API key.\n\nPlease open **Settings** (⚙️) and enter your **Google Gemini API Key** (Free from Google AI Studio) or **OpenAI API Key**.\n\n*Note: Local tools such as System Information, Web Search, and File Inspection remain operational.*",
+          "timestamp": 1791361709476,
+          "agent": "GeneralAssistantAgent",
+          "toolsUsed": [],
+          "toolResults": [],
+          "sources": [],
+          "coreState": "IDLE"
+        }
+      ]
+    },
+    "conv-1791361753775": {
+      "conversationId": "conv-1791361753775",
+      "recentTurns": [
+        {
+          "id": "msg-u-1791361753777",
+          "role": "user",
+          "content": "What is Antiqora AI?",
+          "timestamp": 1791361753774
+        },
+        {
+          "id": "msg-a-1791361753777",
+          "role": "assistant",
+          "content": "I am **ANTIQORA AI** — *Your Intelligent Digital Companion*.\n\nCurrently operating in **Local Mode**. Configure your AI API key in **Settings** to activate full neural conversation capabilities.",
+          "timestamp": 1791361753777,
+          "agent": "GeneralAssistantAgent",
+          "toolsUsed": [],
+          "toolResults": [],
+          "sources": [],
+          "coreState": "IDLE"
+        }
+      ]
+    },
+    "conv-1791361755333": {
+      "conversationId": "conv-1791361755333",
+      "recentTurns": [
+        {
+          "id": "msg-u-1791361755333",
+          "role": "user",
+          "content": "Tell me a complicated story about galaxies",
+          "timestamp": 1791361755333
+        },
+        {
+          "id": "msg-a-1791361755333",
+          "role": "assistant",
+          "content": "⚠️ **AI Provider Not Configured**\n\nTo answer general questions and perform deep reasoning, Antiqora AI requires an API key.\n\nPlease open **Settings** (⚙️) and enter your **Google Gemini API Key** (Free from Google AI Studio) or **OpenAI API Key**.\n\n*Note: Local tools such as System Information, Web Search, and File Inspection remain operational.*",
+          "timestamp": 1791361755333,
+          "agent": "GeneralAssistantAgent",
+          "toolsUsed": [],
+          "toolResults": [],
+          "sources": [],
+          "coreState": "IDLE"
+        }
+      ]
+    },
+    "conv-1791361800101": {
+      "conversationId": "conv-1791361800101",
+      "recentTurns": [
+        {
+          "id": "msg-u-1791361800103",
+          "role": "user",
+          "content": "What is Antiqora AI?",
+          "timestamp": 1791361800100
+        },
+        {
+          "id": "msg-a-1791361800103",
+          "role": "assistant",
+          "content": "I am **ANTIQORA AI** — *Your Intelligent Digital Companion*.\n\nCurrently operating in **Local Mode**. Configure your AI API key in **Settings** to activate full neural conversation capabilities.",
+          "timestamp": 1791361800103,
+          "agent": "GeneralAssistantAgent",
+          "toolsUsed": [],
+          "toolResults": [],
+          "sources": [],
+          "coreState": "IDLE"
+        }
+      ]
+    }
+  },
+  "longTermMemories": [],
+  "permissionsAudit": [],
+  "toolExecutionsAudit": [
+    {
+      "id": "audit-1791361709464-816",
+      "timestamp": 1791361709464,
+      "toolId": "open_url",
+      "arguments": {
+        "url": "https://example.com"
+      },
+      "durationMs": 170,
+      "success": true
+    },
+    {
+      "id": "audit-1791361755322-e0r",
+      "timestamp": 1791361755322,
+      "toolId": "open_url",
+      "arguments": {
+        "url": "https://example.com"
+      },
+      "durationMs": 150,
+      "success": true
+    }
+  ],
+  "settings": {
+    "aiProvider": "gemini",
+    "geminiApiKey": "",
+    "geminiModel": "gemini-2.5-flash",
+    "openAiApiKey": "",
+    "openAiModel": "gpt-4o-mini",
+    "searchProvider": "duckduckgo",
+    "searchApiKey": "",
+    "ttsEnabled": true,
+    "ttsVoice": "",
+    "ttsRate": 1,
+    "autoSpeakResponse": false,
+    "autoConfirmLevel0": true,
+    "autoConfirmLevel1": false,
+    "desktopBridgeEnabled": true,
+    "developerDiagnostics": false
+  }
+}
